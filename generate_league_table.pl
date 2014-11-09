@@ -6,6 +6,9 @@ use utf8;
 use feature 'say';
 use Data::Dumper;
 
+##
+## Set up some filenames
+##
 my $infile = 'cleaned_betexplorer.txt';
 my $outfile = "league_table.txt";
 
@@ -18,8 +21,10 @@ open (my $fh_in, '<', $infile)
 open (my $fh_out, '>', $outfile)
     or die "couldn't open";
 
+##
+## Read in all scores to a hash
+##
 my $rh_league = {};
-
 RESULT:
 while (readline $fh_in) {
     my ($home_team, $away_team, $home_score, $away_score, $date) =
@@ -54,7 +59,9 @@ while (readline $fh_in) {
 
 }
 
-# Calculate goal diff and create a list of sorted teams
+##
+## Calculate goal diff and create a list of sorted teams
+##
 my @positions;
 foreach my $team (keys %$rh_league) {
     $rh_league->{$team}{goal_diff} = 
@@ -65,7 +72,9 @@ foreach my $team (keys %$rh_league) {
 }
 my @sorted_positions = sort sort_on_points @positions; 
 
+##
 ## Output a sorted League Table here
+## 
 say $fh_out "Team Goals-For Goals-Against Goal-Diff Points";
 # Go through sorted list and print out team data from hash
 foreach my $team (@sorted_positions) {
@@ -80,7 +89,9 @@ foreach my $team (@sorted_positions) {
 say "Done";
 exit;
 
+##
 ## functions
+##
 
 # sorts by points then goal_diff
 sub sort_on_points {
