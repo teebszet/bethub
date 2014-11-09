@@ -1,0 +1,1053 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<title>BetExplorer - Serie B 2014/2015 results &amp; stats</title>
+	<meta http-equiv="expires" content="86400" />
+	<meta name="google-site-verification" content="anJD1mJuHp6ohINolrhOa1sPRGwdj2eomUyrlApr3Tg" />
+	<meta name="author" content="1st ART Studio s.r.o." />
+	<meta name="robots" content="all,follow" />
+	<meta name="keywords" content="Serie B 2014/2015, results, statistics, archive odds, odds" />
+	<meta name="description" content="Serie B 2014/2015 results &amp; archive statistics let you see all results &amp; stats in Serie B 2014/2015 and see odds offered by bookmakers for all archive matches." />
+	<meta property="og:title" content="BetExplorer Soccer Stats & Soccer Odds - results, tables, odds comparison" />
+	<meta property="og:image" content="http://www.betexplorer.com/apple-touch-icon.png" />
+	<meta property="og:description" content="Soccer stats at BetExplorer offer soccer results, tables and stats services. Statistics, results, tables & odds for 100+ soccer leagues." />
+	<link rel="stylesheet" type="text/css" href="/res/css/global-be.css?serial=1411011141" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/res/css/advert.css?serial=1411011141" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/gres/css/flags.css?serial=1411011141" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/gres/css/bookmaker.css?serial=1411011141" media="screen" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/gres/gmain.js.php?serial=1411011141"></script>
+	<script type="text/javascript" src="/gres/banner-scroll.js.php?serial=1411011141"></script>
+	<script type="text/javascript" src="/gres/waypoints.js?serial=1411011141"></script>
+	<script type="text/javascript" src="/gres/odds-format.js.php?serial=1411011141"></script>
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>	
+		<div id="be">
+<div id="screen"><div id="bbscreen">
+<div id="content" class="dcl">
+<div id="panel"><div id="pcat_1">
+<a href="/" title="BetExplorer.com - homepage" id="logo"><span>BetExplorer.com - homepage</span></a>
+	<ul id="menu-sport">
+		<li class="home "><a href="/">Home<span></span></a></li>
+		<li class="s1 set"><a href="/soccer/"><strong>Soccer</strong><span></span></a></li>
+		<li class="s4"><a href="/hockey/">Hockey<span></span></a></li>
+		<li class="s3"><a href="/basketball/">Basketball<span></span></a></li>
+		<li class="s7"><a href="/handball/">Handball<span></span></a></li>
+		<li class="s12"><a href="/volleyball/">Volleyball<span></span></a></li>
+		<li class="s6 last"><a href="/baseball/">Baseball<span></span></a></li>
+	</ul>
+</div></div>
+<div id="slink"><span class="cross-arrow"></span><div class="s1">
+<ul id="location">
+	<li></li>
+	<li><a href="/">HOME</a></li>
+	<li>&raquo;  <a href="/soccer/">Soccer</a>
+&raquo; <a href="/soccer/italy/">Italy</a>
+&raquo; <a href="/soccer/italy/serie-b/">Serie B 2014/2015</a>
+</li>
+</ul>
+
+</div>
+
+<div class="s1">
+
+<div class="user-info"><div class="u1" style="display:inline;padding-right:0;">User: </div>not logged | <a href="/user/login/?return_page=L3NvY2Nlci9pdGFseS9zZXJpZS1iL3Jlc3VsdHMv">Login</a> | <a href="/user/registration/">Registration</a></div>
+</div>
+</div>
+<div id="main"><div id="ml">
+<div class="mcontent">
+<div class="inner">
+<h1><span class="newflag f-98"></span><span class="fleft"><span class="bg-white">Serie B 2014/2015</span></span>&nbsp;</h1>
+<ul class="localmenu localmenu-nobb">
+	<li><a href="/soccer/italy/serie-b/">Summary</a></li>
+	<li class="set"><a href="/soccer/italy/serie-b/results/">Results</a></li>
+	<li><a href="/soccer/italy/serie-b/fixtures/">Fixtures</a></li>
+	<li><a href="/soccer/italy/serie-b/stats/">League stats</a></li>
+	<li><a href="/soccer/italy/serie-b/mutual-matches/">Head-to-head</a></li>
+	<li class="float-right"><a href="/soccer/italy/">Archive</a></li>
+</ul>
+<div id="leagueresults_div">
+<table class="result-table league-results" cellspacing="0"><tbody id="leagueresults_tbody">
+<tr class="rtitle first-row"><th class="left first-cell">13. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=OO2cXest" onclick="win(this.href, 560, 500, 0, 1); return false;">Bologna - Carpi</a></td><td class="result"><a href="../matchdetails.php?matchid=OO2cXest" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.14"></td><td class="odds best-betrate" data-odd="3.03"></td><td class="odds" data-odd="3.53"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=za61WFdn" onclick="win(this.href, 560, 500, 0, 1); return false;">Brescia - Pescara</a></td><td class="result"><a href="../matchdetails.php?matchid=za61WFdn" onclick="win(this.href, 560, 500, 0, 1); return false;">1:3</a></td><td class="odds" data-odd="2.12"></td><td class="odds" data-odd="3.05"></td><td class="odds best-betrate" data-odd="3.53"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=INe6VZBh" onclick="win(this.href, 560, 500, 0, 1); return false;">Catania - Varese</a></td><td class="result"><a href="../matchdetails.php?matchid=INe6VZBh" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="1.66"></td><td class="odds" data-odd="3.39"></td><td class="odds" data-odd="5.41"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=dEfAUgRb" onclick="win(this.href, 560, 500, 0, 1); return false;">Cittadella - Latina</a></td><td class="result"><a href="../matchdetails.php?matchid=dEfAUgRb" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.54"></td><td class="odds best-betrate" data-odd="2.93"></td><td class="odds" data-odd="2.89"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=QmaETDt5" onclick="win(this.href, 560, 500, 0, 1); return false;">Frosinone - Trapani</a></td><td class="result"><a href="../matchdetails.php?matchid=QmaETDt5" onclick="win(this.href, 560, 500, 0, 1); return false;">4:1</a></td><td class="odds best-betrate" data-odd="1.80"></td><td class="odds" data-odd="3.26"></td><td class="odds" data-odd="4.62"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=fTjVPVuU" onclick="win(this.href, 560, 500, 0, 1); return false;">Lanciano - Livorno</a></td><td class="result"><a href="../matchdetails.php?matchid=fTjVPVuU" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.51"></td><td class="odds" data-odd="2.94"></td><td class="odds" data-odd="2.90"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=4vbISXeB" onclick="win(this.href, 560, 500, 0, 1); return false;">Modena - Avellino</a></td><td class="result"><a href="../matchdetails.php?matchid=4vbISXeB" onclick="win(this.href, 560, 500, 0, 1); return false;">1:2</a></td><td class="odds" data-odd="1.99"></td><td class="odds" data-odd="3.02"></td><td class="odds best-betrate" data-odd="4.02"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=n3mNRiBH" onclick="win(this.href, 560, 500, 0, 1); return false;">Perugia - Entella</a></td><td class="result"><a href="../matchdetails.php?matchid=n3mNRiBH" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="1.64"></td><td class="odds" data-odd="3.42"></td><td class="odds" data-odd="5.65"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=bkRyygm0" onclick="win(this.href, 560, 500, 0, 1); return false;">Vicenza - Pro Vercelli</a></td><td class="result"><a href="../matchdetails.php?matchid=bkRyygm0" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="3.09"></td><td class="odds" data-odd="2.94"></td><td class="odds" data-odd="2.40"></td><td class="last-cell nobr date">08.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=06iRQBQN" onclick="win(this.href, 560, 500, 0, 1); return false;">Spezia - Crotone</a></td><td class="result"><a href="../matchdetails.php?matchid=06iRQBQN" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="1.99"></td><td class="odds" data-odd="3.16"></td><td class="odds" data-odd="3.83"></td><td class="last-cell nobr date">07.11.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">8. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=2uu6y8wj" onclick="win(this.href, 560, 500, 0, 1); return false;">Entella - Ternana</a></td><td class="result"><a href="../matchdetails.php?matchid=2uu6y8wj" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.39"></td><td class="odds" data-odd="2.97"></td><td class="odds" data-odd="3.06"></td><td class="last-cell nobr date">04.11.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">12. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=lUSKJxDt" onclick="win(this.href, 560, 500, 0, 1); return false;">Latina - Frosinone</a></td><td class="result"><a href="../matchdetails.php?matchid=lUSKJxDt" onclick="win(this.href, 560, 500, 0, 1); return false;">1:4</a></td><td class="odds" data-odd="2.49"></td><td class="odds" data-odd="2.91"></td><td class="odds best-betrate" data-odd="2.98"></td><td class="last-cell nobr date">02.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=jyYrEYtI" onclick="win(this.href, 560, 500, 0, 1); return false;">Varese - Modena</a></td><td class="result"><a href="../matchdetails.php?matchid=jyYrEYtI" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="3.19"></td><td class="odds" data-odd="2.88"></td><td class="odds" data-odd="2.38"></td><td class="last-cell nobr date">02.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=AaR8CL5D" onclick="win(this.href, 560, 500, 0, 1); return false;">Avellino - Catania</a></td><td class="result"><a href="../matchdetails.php?matchid=AaR8CL5D" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.44"></td><td class="odds" data-odd="2.92"></td><td class="odds" data-odd="3.05"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=GQyXyZXg" onclick="win(this.href, 560, 500, 0, 1); return false;">Carpi - Vicenza</a></td><td class="result"><a href="../matchdetails.php?matchid=GQyXyZXg" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="1.67"></td><td class="odds" data-odd="3.43"></td><td class="odds" data-odd="5.29"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=C45iy5rE" onclick="win(this.href, 560, 500, 0, 1); return false;">Crotone - Perugia</a></td><td class="result"><a href="../matchdetails.php?matchid=C45iy5rE" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.74"></td><td class="odds" data-odd="2.93"></td><td class="odds" data-odd="2.69"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=8CSmDhdO" onclick="win(this.href, 560, 500, 0, 1); return false;">Entella - Lanciano</a></td><td class="result"><a href="../matchdetails.php?matchid=8CSmDhdO" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.72"></td><td class="odds best-betrate" data-odd="2.93"></td><td class="odds" data-odd="2.70"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=r5sOIdSn" onclick="win(this.href, 560, 500, 0, 1); return false;">Livorno - Bologna</a></td><td class="result"><a href="../matchdetails.php?matchid=r5sOIdSn" onclick="win(this.href, 560, 500, 0, 1); return false;">3:2</a></td><td class="odds best-betrate" data-odd="2.41"></td><td class="odds" data-odd="2.96"></td><td class="odds" data-odd="3.07"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=MetSHGsg" onclick="win(this.href, 560, 500, 0, 1); return false;">Pescara - Spezia</a></td><td class="result"><a href="../matchdetails.php?matchid=MetSHGsg" onclick="win(this.href, 560, 500, 0, 1); return false;">1:2</a></td><td class="odds" data-odd="2.17"></td><td class="odds" data-odd="3.03"></td><td class="odds best-betrate" data-odd="3.48"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=4KVWGzca" onclick="win(this.href, 560, 500, 0, 1); return false;">Pro Vercelli - Bari</a></td><td class="result"><a href="../matchdetails.php?matchid=4KVWGzca" onclick="win(this.href, 560, 500, 0, 1); return false;">3:0</a></td><td class="odds best-betrate" data-odd="2.55"></td><td class="odds" data-odd="2.96"></td><td class="odds" data-odd="2.88"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=INZzGfC5" onclick="win(this.href, 560, 500, 0, 1); return false;">Ternana - Cittadella</a></td><td class="result"><a href="../matchdetails.php?matchid=INZzGfC5" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="1.95"></td><td class="odds best-betrate" data-odd="3.13"></td><td class="odds" data-odd="4.04"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=CpZvFERB" onclick="win(this.href, 560, 500, 0, 1); return false;">Trapani - Brescia</a></td><td class="result"><a href="../matchdetails.php?matchid=CpZvFERB" onclick="win(this.href, 560, 500, 0, 1); return false;">3:2</a></td><td class="odds best-betrate" data-odd="2.10"></td><td class="odds" data-odd="3.10"></td><td class="odds" data-odd="3.55"></td><td class="last-cell nobr date">01.11.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">11. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=lWcRarM7" onclick="win(this.href, 560, 500, 0, 1); return false;">Bari - Pescara</a></td><td class="result"><a href="../matchdetails.php?matchid=lWcRarM7" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="1.95"></td><td class="odds best-betrate" data-odd="3.17"></td><td class="odds" data-odd="4.00"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=GxjDNoEE" onclick="win(this.href, 560, 500, 0, 1); return false;">Brescia - Crotone</a></td><td class="result"><a href="../matchdetails.php?matchid=GxjDNoEE" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.09"></td><td class="odds" data-odd="3.02"></td><td class="odds" data-odd="3.73"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=b1uIM5TK" onclick="win(this.href, 560, 500, 0, 1); return false;">Carpi - Ternana</a></td><td class="result"><a href="../matchdetails.php?matchid=b1uIM5TK" onclick="win(this.href, 560, 500, 0, 1); return false;">3:1</a></td><td class="odds best-betrate" data-odd="1.84"></td><td class="odds" data-odd="3.19"></td><td class="odds" data-odd="4.47"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=AyqMLPrR" onclick="win(this.href, 560, 500, 0, 1); return false;">Catania - Entella</a></td><td class="result"><a href="../matchdetails.php?matchid=AyqMLPrR" onclick="win(this.href, 560, 500, 0, 1); return false;">5:1</a></td><td class="odds best-betrate" data-odd="1.58"></td><td class="odds" data-odd="3.60"></td><td class="odds" data-odd="6.00"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=SGVmHqir" onclick="win(this.href, 560, 500, 0, 1); return false;">Cittadella - Livorno</a></td><td class="result"><a href="../matchdetails.php?matchid=SGVmHqir" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.90"></td><td class="odds best-betrate" data-odd="2.94"></td><td class="odds" data-odd="2.53"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=67UiG36l" onclick="win(this.href, 560, 500, 0, 1); return false;">Frosinone - Varese</a></td><td class="result"><a href="../matchdetails.php?matchid=67UiG36l" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="1.76"></td><td class="odds best-betrate" data-odd="3.27"></td><td class="odds" data-odd="4.90"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=ddN4D1j7" onclick="win(this.href, 560, 500, 0, 1); return false;">Lanciano - Pro Vercelli</a></td><td class="result"><a href="../matchdetails.php?matchid=ddN4D1j7" onclick="win(this.href, 560, 500, 0, 1); return false;">2:0</a></td><td class="odds best-betrate" data-odd="2.07"></td><td class="odds" data-odd="3.02"></td><td class="odds" data-odd="3.80"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=OrPdFNLf" onclick="win(this.href, 560, 500, 0, 1); return false;">Perugia - Avellino</a></td><td class="result"><a href="../matchdetails.php?matchid=OrPdFNLf" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.03"></td><td class="odds best-betrate" data-odd="3.04"></td><td class="odds" data-odd="3.87"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=2ZN0Esy1" onclick="win(this.href, 560, 500, 0, 1); return false;">Spezia - Latina</a></td><td class="result"><a href="../matchdetails.php?matchid=2ZN0Esy1" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.35"></td><td class="odds best-betrate" data-odd="2.90"></td><td class="odds" data-odd="3.26"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=2NXSxFIm" onclick="win(this.href, 560, 500, 0, 1); return false;">Vicenza - Modena</a></td><td class="result"><a href="../matchdetails.php?matchid=2NXSxFIm" onclick="win(this.href, 560, 500, 0, 1); return false;">0:2</a></td><td class="odds" data-odd="3.69"></td><td class="odds" data-odd="2.97"></td><td class="odds best-betrate" data-odd="2.13"></td><td class="last-cell nobr date">28.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=xni9ORb8" onclick="win(this.href, 560, 500, 0, 1); return false;">Bologna - Trapani</a></td><td class="result"><a href="../matchdetails.php?matchid=xni9ORb8" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="1.77"></td><td class="odds" data-odd="3.37"></td><td class="odds" data-odd="4.65"></td><td class="last-cell nobr date">27.10.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">10. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=lAMjm5x2" onclick="win(this.href, 560, 500, 0, 1); return false;">Avellino - Lanciano</a></td><td class="result"><a href="../matchdetails.php?matchid=lAMjm5x2" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.22"></td><td class="odds best-betrate" data-odd="2.99"></td><td class="odds" data-odd="3.43"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=80YOwe3s" onclick="win(this.href, 560, 500, 0, 1); return false;">Catania - Vicenza</a></td><td class="result"><a href="../matchdetails.php?matchid=80YOwe3s" onclick="win(this.href, 560, 500, 0, 1); return false;">3:1</a></td><td class="odds best-betrate" data-odd="1.59"></td><td class="odds" data-odd="3.53"></td><td class="odds" data-odd="6.11"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=jF0ZBlF2" onclick="win(this.href, 560, 500, 0, 1); return false;">Crotone - Cittadella</a></td><td class="result"><a href="../matchdetails.php?matchid=jF0ZBlF2" onclick="win(this.href, 560, 500, 0, 1); return false;">2:2</a></td><td class="odds" data-odd="2.08"></td><td class="odds best-betrate" data-odd="3.04"></td><td class="odds" data-odd="3.73"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=AuaN0O61" onclick="win(this.href, 560, 500, 0, 1); return false;">Entella - Frosinone</a></td><td class="result"><a href="../matchdetails.php?matchid=AuaN0O61" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="3.21"></td><td class="odds" data-odd="2.97"></td><td class="odds" data-odd="2.33"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=4I4wB8U8" onclick="win(this.href, 560, 500, 0, 1); return false;">Latina - Brescia</a></td><td class="result"><a href="../matchdetails.php?matchid=4I4wB8U8" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.30"></td><td class="odds best-betrate" data-odd="2.93"></td><td class="odds" data-odd="3.31"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=bu4sASqF" onclick="win(this.href, 560, 500, 0, 1); return false;">Livorno - Spezia</a></td><td class="result"><a href="../matchdetails.php?matchid=bu4sASqF" onclick="win(this.href, 560, 500, 0, 1); return false;">0:1</a></td><td class="odds" data-odd="1.98"></td><td class="odds" data-odd="3.09"></td><td class="odds best-betrate" data-odd="3.98"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=IsKr86ER" onclick="win(this.href, 560, 500, 0, 1); return false;">Pescara - Carpi</a></td><td class="result"><a href="../matchdetails.php?matchid=IsKr86ER" onclick="win(this.href, 560, 500, 0, 1); return false;">0:5</a></td><td class="odds" data-odd="2.10"></td><td class="odds" data-odd="3.04"></td><td class="odds best-betrate" data-odd="3.66"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=Kj6A3QMr" onclick="win(this.href, 560, 500, 0, 1); return false;">Pro Vercelli - Perugia</a></td><td class="result"><a href="../matchdetails.php?matchid=Kj6A3QMr" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.56"></td><td class="odds best-betrate" data-odd="2.93"></td><td class="odds" data-odd="2.88"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=SG9I14ie" onclick="win(this.href, 560, 500, 0, 1); return false;">Varese - Bari</a></td><td class="result"><a href="../matchdetails.php?matchid=SG9I14ie" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="3.21"></td><td class="odds" data-odd="3.02"></td><td class="odds" data-odd="2.30"></td><td class="last-cell nobr date">25.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=xW2o9naL" onclick="win(this.href, 560, 500, 0, 1); return false;">Modena - Bologna</a></td><td class="result"><a href="../matchdetails.php?matchid=xW2o9naL" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.47"></td><td class="odds best-betrate" data-odd="2.89"></td><td class="odds" data-odd="3.08"></td><td class="last-cell nobr date">24.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=ED5E2pxk" onclick="win(this.href, 560, 500, 0, 1); return false;">Ternana - Trapani</a></td><td class="result"><a href="../matchdetails.php?matchid=ED5E2pxk" onclick="win(this.href, 560, 500, 0, 1); return false;">1:2</a></td><td class="odds" data-odd="2.23"></td><td class="odds" data-odd="3.02"></td><td class="odds best-betrate" data-odd="3.34"></td><td class="last-cell nobr date">24.10.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">9. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=44P4d9FF" onclick="win(this.href, 560, 500, 0, 1); return false;">Cittadella - Entella</a></td><td class="result"><a href="../matchdetails.php?matchid=44P4d9FF" onclick="win(this.href, 560, 500, 0, 1); return false;">0:1</a></td><td class="odds" data-odd="2.14"></td><td class="odds" data-odd="3.07"></td><td class="odds best-betrate" data-odd="3.51"></td><td class="last-cell nobr date">20.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=GrqAzShd" onclick="win(this.href, 560, 500, 0, 1); return false;">Bari - Avellino</a></td><td class="result"><a href="../matchdetails.php?matchid=GrqAzShd" onclick="win(this.href, 560, 500, 0, 1); return false;">4:2</a></td><td class="odds best-betrate" data-odd="2.17"></td><td class="odds" data-odd="3.03"></td><td class="odds" data-odd="3.49"></td><td class="last-cell nobr date">19.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=UoXiaBVd" onclick="win(this.href, 560, 500, 0, 1); return false;">Bologna - Varese</a></td><td class="result"><a href="../matchdetails.php?matchid=UoXiaBVd" onclick="win(this.href, 560, 500, 0, 1); return false;">3:0</a></td><td class="odds best-betrate" data-odd="1.75"></td><td class="odds" data-odd="3.30"></td><td class="odds" data-odd="4.93"></td><td class="last-cell nobr date">18.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=8xWebVp3" onclick="win(this.href, 560, 500, 0, 1); return false;">Brescia - Pro Vercelli</a></td><td class="result"><a href="../matchdetails.php?matchid=8xWebVp3" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.02"></td><td class="odds" data-odd="3.07"></td><td class="odds" data-odd="3.90"></td><td class="last-cell nobr date">18.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=QDQ0ck09" onclick="win(this.href, 560, 500, 0, 1); return false;">Carpi - Latina</a></td><td class="result"><a href="../matchdetails.php?matchid=QDQ0ck09" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.48"></td><td class="odds" data-odd="2.93"></td><td class="odds" data-odd="3.01"></td><td class="last-cell nobr date">18.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=bRO8eTUL" onclick="win(this.href, 560, 500, 0, 1); return false;">Frosinone - Modena</a></td><td class="result"><a href="../matchdetails.php?matchid=bRO8eTUL" onclick="win(this.href, 560, 500, 0, 1); return false;">2:0</a></td><td class="odds best-betrate" data-odd="2.16"></td><td class="odds" data-odd="2.95"></td><td class="odds" data-odd="3.63"></td><td class="last-cell nobr date">18.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=AJNnloNe" onclick="win(this.href, 560, 500, 0, 1); return false;">Lanciano - Perugia</a></td><td class="result"><a href="../matchdetails.php?matchid=AJNnloNe" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.44"></td><td class="odds best-betrate" data-odd="2.93"></td><td class="odds" data-odd="3.06"></td><td class="last-cell nobr date">18.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=dCsCfmpS" onclick="win(this.href, 560, 500, 0, 1); return false;">Spezia - Catania</a></td><td class="result"><a href="../matchdetails.php?matchid=dCsCfmpS" onclick="win(this.href, 560, 500, 0, 1); return false;">3:0</a></td><td class="odds best-betrate" data-odd="2.43"></td><td class="odds" data-odd="2.95"></td><td class="odds" data-odd="3.09"></td><td class="last-cell nobr date">18.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=2gKvj7hq" onclick="win(this.href, 560, 500, 0, 1); return false;">Ternana - Livorno</a></td><td class="result"><a href="../matchdetails.php?matchid=2gKvj7hq" onclick="win(this.href, 560, 500, 0, 1); return false;">0:4</a></td><td class="odds" data-odd="2.53"></td><td class="odds" data-odd="2.92"></td><td class="odds best-betrate" data-odd="2.95"></td><td class="last-cell nobr date">18.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=tpJrkR7k" onclick="win(this.href, 560, 500, 0, 1); return false;">Trapani - Crotone</a></td><td class="result"><a href="../matchdetails.php?matchid=tpJrkR7k" onclick="win(this.href, 560, 500, 0, 1); return false;">3:1</a></td><td class="odds best-betrate" data-odd="2.09"></td><td class="odds" data-odd="3.08"></td><td class="odds" data-odd="3.61"></td><td class="last-cell nobr date">18.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=6incryeQ" onclick="win(this.href, 560, 500, 0, 1); return false;">Vicenza - Pescara</a></td><td class="result"><a href="../matchdetails.php?matchid=6incryeQ" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="3.32"></td><td class="odds" data-odd="2.99"></td><td class="odds" data-odd="2.25"></td><td class="last-cell nobr date">17.10.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">8. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=KGk1xlOq" onclick="win(this.href, 560, 500, 0, 1); return false;">Varese - Cittadella</a></td><td class="result"><a href="../matchdetails.php?matchid=KGk1xlOq" onclick="win(this.href, 560, 500, 0, 1); return false;">2:2</a></td><td class="odds" data-odd="2.08"></td><td class="odds best-betrate" data-odd="3.02"></td><td class="odds" data-odd="3.75"></td><td class="last-cell nobr date">13.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=QgURNl9j" onclick="win(this.href, 560, 500, 0, 1); return false;">Avellino - Carpi</a></td><td class="result"><a href="../matchdetails.php?matchid=QgURNl9j" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.08"></td><td class="odds" data-odd="3.06"></td><td class="odds" data-odd="3.65"></td><td class="last-cell nobr date">12.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=2BDAnYoi" onclick="win(this.href, 560, 500, 0, 1); return false;">Catania - Bari</a></td><td class="result"><a href="../matchdetails.php?matchid=2BDAnYoi" onclick="win(this.href, 560, 500, 0, 1); return false;">2:3</a></td><td class="odds" data-odd="2.24"></td><td class="odds" data-odd="2.96"></td><td class="odds best-betrate" data-odd="3.38"></td><td class="last-cell nobr date">12.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=t2CEoh1c" onclick="win(this.href, 560, 500, 0, 1); return false;">Crotone - Pescara</a></td><td class="result"><a href="../matchdetails.php?matchid=t2CEoh1c" onclick="win(this.href, 560, 500, 0, 1); return false;">1:4</a></td><td class="odds" data-odd="2.70"></td><td class="odds" data-odd="2.87"></td><td class="odds best-betrate" data-odd="2.77"></td><td class="last-cell nobr date">12.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=QuVaqHuK" onclick="win(this.href, 560, 500, 0, 1); return false;">Lanciano - Vicenza</a></td><td class="result"><a href="../matchdetails.php?matchid=QuVaqHuK" onclick="win(this.href, 560, 500, 0, 1); return false;">4:0</a></td><td class="odds best-betrate" data-odd="1.90"></td><td class="odds" data-odd="3.12"></td><td class="odds" data-odd="4.29"></td><td class="last-cell nobr date">12.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=zPBIpCG3" onclick="win(this.href, 560, 500, 0, 1); return false;">Latina - Bologna</a></td><td class="result"><a href="../matchdetails.php?matchid=zPBIpCG3" onclick="win(this.href, 560, 500, 0, 1); return false;">1:2</a></td><td class="odds" data-odd="2.32"></td><td class="odds" data-odd="2.92"></td><td class="odds best-betrate" data-odd="3.26"></td><td class="last-cell nobr date">12.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=lSFMqWV9" onclick="win(this.href, 560, 500, 0, 1); return false;">Livorno - Trapani</a></td><td class="result"><a href="../matchdetails.php?matchid=lSFMqWV9" onclick="win(this.href, 560, 500, 0, 1); return false;">6:0</a></td><td class="odds best-betrate" data-odd="2.08"></td><td class="odds" data-odd="3.01"></td><td class="odds" data-odd="3.72"></td><td class="last-cell nobr date">12.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=As4VsA0M" onclick="win(this.href, 560, 500, 0, 1); return false;">Perugia - Frosinone</a></td><td class="result"><a href="../matchdetails.php?matchid=As4VsA0M" onclick="win(this.href, 560, 500, 0, 1); return false;">0:1</a></td><td class="odds" data-odd="2.20"></td><td class="odds" data-odd="2.96"></td><td class="odds best-betrate" data-odd="3.46"></td><td class="last-cell nobr date">12.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=Wj5RrjoG" onclick="win(this.href, 560, 500, 0, 1); return false;">Modena - Brescia</a></td><td class="result"><a href="../matchdetails.php?matchid=Wj5RrjoG" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.37"></td><td class="odds best-betrate" data-odd="2.88"></td><td class="odds" data-odd="3.22"></td><td class="last-cell nobr date">11.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=I73ZtUFS" onclick="win(this.href, 560, 500, 0, 1); return false;">Pro Vercelli - Spezia</a></td><td class="result"><a href="../matchdetails.php?matchid=I73ZtUFS" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.17"></td><td class="odds" data-odd="2.94"></td><td class="odds" data-odd="3.56"></td><td class="last-cell nobr date">11.10.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">7. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=f77ftcPH" onclick="win(this.href, 560, 500, 0, 1); return false;">Ternana - Avellino</a></td><td class="result"><a href="../matchdetails.php?matchid=f77ftcPH" onclick="win(this.href, 560, 500, 0, 1); return false;">2:2</a></td><td class="odds" data-odd="2.48"></td><td class="odds best-betrate" data-odd="2.88"></td><td class="odds" data-odd="3.05"></td><td class="last-cell nobr date">06.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=t4sLRcAO" onclick="win(this.href, 560, 500, 0, 1); return false;">Bari - Modena</a></td><td class="result"><a href="../matchdetails.php?matchid=t4sLRcAO" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.19"></td><td class="odds best-betrate" data-odd="2.99"></td><td class="odds" data-odd="3.48"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=f7V2jsmP" onclick="win(this.href, 560, 500, 0, 1); return false;">Brescia - Varese</a></td><td class="result"><a href="../matchdetails.php?matchid=f7V2jsmP" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="1.99"></td><td class="odds best-betrate" data-odd="3.09"></td><td class="odds" data-odd="3.95"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=WSMUo1et" onclick="win(this.href, 560, 500, 0, 1); return false;">Carpi - Pro Vercelli</a></td><td class="result"><a href="../matchdetails.php?matchid=WSMUo1et" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.02"></td><td class="odds" data-odd="3.07"></td><td class="odds" data-odd="3.89"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=EiCZpLAn" onclick="win(this.href, 560, 500, 0, 1); return false;">Cittadella - Lanciano</a></td><td class="result"><a href="../matchdetails.php?matchid=EiCZpLAn" onclick="win(this.href, 560, 500, 0, 1); return false;">2:3</a></td><td class="odds" data-odd="2.56"></td><td class="odds" data-odd="2.92"></td><td class="odds best-betrate" data-odd="2.89"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=hrBwpuQh" onclick="win(this.href, 560, 500, 0, 1); return false;">Frosinone - Catania</a></td><td class="result"><a href="../matchdetails.php?matchid=hrBwpuQh" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.40"></td><td class="odds" data-odd="2.97"></td><td class="odds" data-odd="3.07"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=08EorJf5" onclick="win(this.href, 560, 500, 0, 1); return false;">Pescara - Entella</a></td><td class="result"><a href="../matchdetails.php?matchid=08EorJf5" onclick="win(this.href, 560, 500, 0, 1); return false;">4:0</a></td><td class="odds best-betrate" data-odd="1.73"></td><td class="odds" data-odd="3.29"></td><td class="odds" data-odd="5.15"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=rX3jswAB" onclick="win(this.href, 560, 500, 0, 1); return false;">Spezia - Perugia</a></td><td class="result"><a href="../matchdetails.php?matchid=rX3jswAB" onclick="win(this.href, 560, 500, 0, 1); return false;">2:0</a></td><td class="odds best-betrate" data-odd="2.61"></td><td class="odds" data-odd="2.97"></td><td class="odds" data-odd="2.79"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=n3VNOUgp" onclick="win(this.href, 560, 500, 0, 1); return false;">Trapani - Latina</a></td><td class="result"><a href="../matchdetails.php?matchid=n3VNOUgp" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.73"></td><td class="odds" data-odd="2.98"></td><td class="odds" data-odd="2.67"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=nkWepcQD" onclick="win(this.href, 560, 500, 0, 1); return false;">Vicenza - Bologna</a></td><td class="result"><a href="../matchdetails.php?matchid=nkWepcQD" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="3.54"></td><td class="odds best-betrate" data-odd="2.99"></td><td class="odds" data-odd="2.17"></td><td class="last-cell nobr date">04.10.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=MHFsqaua" onclick="win(this.href, 560, 500, 0, 1); return false;">Livorno - Crotone</a></td><td class="result"><a href="../matchdetails.php?matchid=MHFsqaua" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="1.90"></td><td class="odds" data-odd="3.18"></td><td class="odds" data-odd="4.25"></td><td class="last-cell nobr date">03.10.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">6. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=2DrHSweI" onclick="win(this.href, 560, 500, 0, 1); return false;">Lanciano - Bari</a></td><td class="result"><a href="../matchdetails.php?matchid=2DrHSweI" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.78"></td><td class="odds best-betrate" data-odd="2.91"></td><td class="odds" data-odd="2.65"></td><td class="last-cell nobr date">29.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=zTTXxOIP" onclick="win(this.href, 560, 500, 0, 1); return false;">Catania - Pescara</a></td><td class="result"><a href="../matchdetails.php?matchid=zTTXxOIP" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.00"></td><td class="odds" data-odd="3.14"></td><td class="odds" data-odd="3.84"></td><td class="last-cell nobr date">28.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=h44mVBaJ" onclick="win(this.href, 560, 500, 0, 1); return false;">Avellino - Livorno</a></td><td class="result"><a href="../matchdetails.php?matchid=h44mVBaJ" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.37"></td><td class="odds" data-odd="2.95"></td><td class="odds" data-odd="3.14"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=dxVTw43J" onclick="win(this.href, 560, 500, 0, 1); return false;">Bologna - Cittadella</a></td><td class="result"><a href="../matchdetails.php?matchid=dxVTw43J" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="1.82"></td><td class="odds" data-odd="3.20"></td><td class="odds" data-odd="4.70"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=YorELDmD" onclick="win(this.href, 560, 500, 0, 1); return false;">Crotone - Vicenza</a></td><td class="result"><a href="../matchdetails.php?matchid=YorELDmD" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="1.94"></td><td class="odds best-betrate" data-odd="3.18"></td><td class="odds" data-odd="4.02"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=ziCKTJuC" onclick="win(this.href, 560, 500, 0, 1); return false;">Entella - Carpi</a></td><td class="result"><a href="../matchdetails.php?matchid=ziCKTJuC" onclick="win(this.href, 560, 500, 0, 1); return false;">2:0</a></td><td class="odds best-betrate" data-odd="2.67"></td><td class="odds" data-odd="2.95"></td><td class="odds" data-odd="2.74"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=SKLaYsRt" onclick="win(this.href, 560, 500, 0, 1); return false;">Latina - Ternana</a></td><td class="result"><a href="../matchdetails.php?matchid=SKLaYsRt" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.07"></td><td class="odds best-betrate" data-odd="3.04"></td><td class="odds" data-odd="3.74"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=6BK3X1tm" onclick="win(this.href, 560, 500, 0, 1); return false;">Modena - Spezia</a></td><td class="result"><a href="../matchdetails.php?matchid=6BK3X1tm" onclick="win(this.href, 560, 500, 0, 1); return false;">2:0</a></td><td class="odds best-betrate" data-odd="2.13"></td><td class="odds" data-odd="3.02"></td><td class="odds" data-odd="3.58"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=lzA8WLeg" onclick="win(this.href, 560, 500, 0, 1); return false;">Perugia - Brescia</a></td><td class="result"><a href="../matchdetails.php?matchid=lzA8WLeg" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="1.98"></td><td class="odds" data-odd="3.11"></td><td class="odds" data-odd="3.99"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=2wECVuBa" onclick="win(this.href, 560, 500, 0, 1); return false;">Pro Vercelli - Frosinone</a></td><td class="result"><a href="../matchdetails.php?matchid=2wECVuBa" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.46"></td><td class="odds best-betrate" data-odd="2.93"></td><td class="odds" data-odd="3.01"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=d0DGUaQ5" onclick="win(this.href, 560, 500, 0, 1); return false;">Varese - Trapani</a></td><td class="result"><a href="../matchdetails.php?matchid=d0DGUaQ5" onclick="win(this.href, 560, 500, 0, 1); return false;">5:2</a></td><td class="odds best-betrate" data-odd="2.43"></td><td class="odds" data-odd="3.01"></td><td class="odds" data-odd="2.98"></td><td class="last-cell nobr date">27.09.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">5. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=hpt6IYFD" onclick="win(this.href, 560, 500, 0, 1); return false;">Brescia - Lanciano</a></td><td class="result"><a href="../matchdetails.php?matchid=hpt6IYFD" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.06"></td><td class="odds best-betrate" data-odd="3.01"></td><td class="odds" data-odd="3.86"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=KjUmsIhE" onclick="win(this.href, 560, 500, 0, 1); return false;">Cittadella - Pro Vercelli</a></td><td class="result"><a href="../matchdetails.php?matchid=KjUmsIhE" onclick="win(this.href, 560, 500, 0, 1); return false;">1:2</a></td><td class="odds" data-odd="2.23"></td><td class="odds" data-odd="2.98"></td><td class="odds best-betrate" data-odd="3.37"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=bsTitx8K" onclick="win(this.href, 560, 500, 0, 1); return false;">Crotone - Catania</a></td><td class="result"><a href="../matchdetails.php?matchid=bsTitx8K" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="3.02"></td><td class="odds best-betrate" data-odd="2.96"></td><td class="odds" data-odd="2.44"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=t6IdudNQ" onclick="win(this.href, 560, 500, 0, 1); return false;">Frosinone - Avellino</a></td><td class="result"><a href="../matchdetails.php?matchid=t6IdudNQ" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.11"></td><td class="odds best-betrate" data-odd="3.02"></td><td class="odds" data-odd="3.64"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=IR9OzGVs" onclick="win(this.href, 560, 500, 0, 1); return false;">Livorno - Varese</a></td><td class="result"><a href="../matchdetails.php?matchid=IR9OzGVs" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="1.98"></td><td class="odds" data-odd="3.11"></td><td class="odds" data-odd="3.95"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=Cl9SZZpl" onclick="win(this.href, 560, 500, 0, 1); return false;">Modena - Perugia</a></td><td class="result"><a href="../matchdetails.php?matchid=Cl9SZZpl" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.48"></td><td class="odds best-betrate" data-odd="2.95"></td><td class="odds" data-odd="2.98"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=ju8WYg0f" onclick="win(this.href, 560, 500, 0, 1); return false;">Pescara - Latina</a></td><td class="result"><a href="../matchdetails.php?matchid=ju8WYg0f" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.38"></td><td class="odds best-betrate" data-odd="2.92"></td><td class="odds" data-odd="3.16"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=n71uXXU6" onclick="win(this.href, 560, 500, 0, 1); return false;">Ternana - Bologna</a></td><td class="result"><a href="../matchdetails.php?matchid=n71uXXU6" onclick="win(this.href, 560, 500, 0, 1); return false;">0:1</a></td><td class="odds" data-odd="2.70"></td><td class="odds" data-odd="2.92"></td><td class="odds best-betrate" data-odd="2.73"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=tU0qWipD" onclick="win(this.href, 560, 500, 0, 1); return false;">Trapani - Entella</a></td><td class="result"><a href="../matchdetails.php?matchid=tU0qWipD" onclick="win(this.href, 560, 500, 0, 1); return false;">2:2</a></td><td class="odds" data-odd="1.95"></td><td class="odds best-betrate" data-odd="3.22"></td><td class="odds" data-odd="3.94"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=KrvAMgY6" onclick="win(this.href, 560, 500, 0, 1); return false;">Vicenza - Bari</a></td><td class="result"><a href="../matchdetails.php?matchid=KrvAMgY6" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="3.64"></td><td class="odds" data-odd="3.01"></td><td class="odds" data-odd="2.12"></td><td class="last-cell nobr date">23.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=8G2yYDF0" onclick="win(this.href, 560, 500, 0, 1); return false;">Spezia - Carpi</a></td><td class="result"><a href="../matchdetails.php?matchid=8G2yYDF0" onclick="win(this.href, 560, 500, 0, 1); return false;">1:2</a></td><td class="odds" data-odd="2.27"></td><td class="odds" data-odd="2.98"></td><td class="odds best-betrate" data-odd="3.29"></td><td class="last-cell nobr date">22.09.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">4. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=WGCO5eW7" onclick="win(this.href, 560, 500, 0, 1); return false;">Bari - Livorno</a></td><td class="result"><a href="../matchdetails.php?matchid=WGCO5eW7" onclick="win(this.href, 560, 500, 0, 1); return false;">2:0</a></td><td class="odds best-betrate" data-odd="2.13"></td><td class="odds" data-odd="3.03"></td><td class="odds" data-odd="3.55"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=YLj7Uv98" onclick="win(this.href, 560, 500, 0, 1); return false;">Bologna - Crotone</a></td><td class="result"><a href="../matchdetails.php?matchid=YLj7Uv98" onclick="win(this.href, 560, 500, 0, 1); return false;">0:2</a></td><td class="odds" data-odd="1.67"></td><td class="odds" data-odd="3.35"></td><td class="odds best-betrate" data-odd="5.57"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=W69ATbOE" onclick="win(this.href, 560, 500, 0, 1); return false;">Brescia - Ternana</a></td><td class="result"><a href="../matchdetails.php?matchid=W69ATbOE" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.19"></td><td class="odds best-betrate" data-odd="2.98"></td><td class="odds" data-odd="3.50"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=4K7IRxgR" onclick="win(this.href, 560, 500, 0, 1); return false;">Catania - Modena</a></td><td class="result"><a href="../matchdetails.php?matchid=4K7IRxgR" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="1.98"></td><td class="odds best-betrate" data-odd="3.11"></td><td class="odds" data-odd="3.95"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=pEkoNd1r" onclick="win(this.href, 560, 500, 0, 1); return false;">Cittadella - Pescara</a></td><td class="result"><a href="../matchdetails.php?matchid=pEkoNd1r" onclick="win(this.href, 560, 500, 0, 1); return false;">3:2</a></td><td class="odds best-betrate" data-odd="2.76"></td><td class="odds" data-odd="2.97"></td><td class="odds" data-odd="2.63"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=Egs2JE07" onclick="win(this.href, 560, 500, 0, 1); return false;">Lanciano - Frosinone</a></td><td class="result"><a href="../matchdetails.php?matchid=Egs2JE07" onclick="win(this.href, 560, 500, 0, 1); return false;">1:5</a></td><td class="odds" data-odd="2.27"></td><td class="odds" data-odd="2.97"></td><td class="odds best-betrate" data-odd="3.29"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=O4lkMGGl" onclick="win(this.href, 560, 500, 0, 1); return false;">Latina - Avellino</a></td><td class="result"><a href="../matchdetails.php?matchid=O4lkMGGl" onclick="win(this.href, 560, 500, 0, 1); return false;">1:2</a></td><td class="odds" data-odd="2.00"></td><td class="odds" data-odd="3.02"></td><td class="odds best-betrate" data-odd="4.01"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=xKl5NZI0" onclick="win(this.href, 560, 500, 0, 1); return false;">Perugia - Vicenza</a></td><td class="result"><a href="../matchdetails.php?matchid=xKl5NZI0" onclick="win(this.href, 560, 500, 0, 1); return false;">2:2</a></td><td class="odds" data-odd="1.49"></td><td class="odds best-betrate" data-odd="3.77"></td><td class="odds" data-odd="7.06"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=IRmgLzWf" onclick="win(this.href, 560, 500, 0, 1); return false;">Pro Vercelli - Varese</a></td><td class="result"><a href="../matchdetails.php?matchid=IRmgLzWf" onclick="win(this.href, 560, 500, 0, 1); return false;">4:0</a></td><td class="odds best-betrate" data-odd="2.47"></td><td class="odds" data-odd="2.94"></td><td class="odds" data-odd="2.97"></td><td class="last-cell nobr date">20.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=QT8ESIwL" onclick="win(this.href, 560, 500, 0, 1); return false;">Carpi - Trapani</a></td><td class="result"><a href="../matchdetails.php?matchid=QT8ESIwL" onclick="win(this.href, 560, 500, 0, 1); return false;">2:2</a></td><td class="odds" data-odd="2.05"></td><td class="odds best-betrate" data-odd="3.08"></td><td class="odds" data-odd="3.76"></td><td class="last-cell nobr date">19.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=WUicKfo1" onclick="win(this.href, 560, 500, 0, 1); return false;">Spezia - Entella</a></td><td class="result"><a href="../matchdetails.php?matchid=WUicKfo1" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="1.98"></td><td class="odds" data-odd="3.08"></td><td class="odds" data-odd="3.97"></td><td class="last-cell nobr date">19.09.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">3. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=IofWSRX3" onclick="win(this.href, 560, 500, 0, 1); return false;">Livorno - Latina</a></td><td class="result"><a href="../matchdetails.php?matchid=IofWSRX3" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.33"></td><td class="odds best-betrate" data-odd="2.97"></td><td class="odds" data-odd="3.19"></td><td class="last-cell nobr date">15.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=bTk1OF3f" onclick="win(this.href, 560, 500, 0, 1); return false;">Vicenza - Ternana</a></td><td class="result"><a href="../matchdetails.php?matchid=bTk1OF3f" onclick="win(this.href, 560, 500, 0, 1); return false;">0:1</a></td><td class="odds" data-odd="3.13"></td><td class="odds" data-odd="2.93"></td><td class="odds best-betrate" data-odd="2.39"></td><td class="last-cell nobr date">14.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=ptjm64Qj" onclick="win(this.href, 560, 500, 0, 1); return false;">Avellino - Spezia</a></td><td class="result"><a href="../matchdetails.php?matchid=ptjm64Qj" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="2.22"></td><td class="odds best-betrate" data-odd="2.99"></td><td class="odds" data-odd="3.42"></td><td class="last-cell nobr date">13.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=bqvVUm3i" onclick="win(this.href, 560, 500, 0, 1); return false;">Crotone - Carpi</a></td><td class="result"><a href="../matchdetails.php?matchid=bqvVUm3i" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.69"></td><td class="odds best-betrate" data-odd="2.94"></td><td class="odds" data-odd="2.74"></td><td class="last-cell nobr date">13.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=hQDK6yH1" onclick="win(this.href, 560, 500, 0, 1); return false;">Entella - Brescia</a></td><td class="result"><a href="../matchdetails.php?matchid=hQDK6yH1" onclick="win(this.href, 560, 500, 0, 1); return false;">0:1</a></td><td class="odds" data-odd="2.44"></td><td class="odds" data-odd="2.93"></td><td class="odds best-betrate" data-odd="3.05"></td><td class="last-cell nobr date">13.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=xzwZT7Ic" onclick="win(this.href, 560, 500, 0, 1); return false;">Frosinone - Bari</a></td><td class="result"><a href="../matchdetails.php?matchid=xzwZT7Ic" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.74"></td><td class="odds best-betrate" data-odd="2.94"></td><td class="odds" data-odd="2.69"></td><td class="last-cell nobr date">13.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=dxgzSomA" onclick="win(this.href, 560, 500, 0, 1); return false;">Modena - Pro Vercelli</a></td><td class="result"><a href="../matchdetails.php?matchid=dxgzSomA" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="1.88"></td><td class="odds" data-odd="3.14"></td><td class="odds" data-odd="4.40"></td><td class="last-cell nobr date">13.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=jahvR52G" onclick="win(this.href, 560, 500, 0, 1); return false;">Perugia - Catania</a></td><td class="result"><a href="../matchdetails.php?matchid=jahvR52G" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.41"></td><td class="odds" data-odd="2.99"></td><td class="odds" data-odd="3.03"></td><td class="last-cell nobr date">13.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=p0AC8cnk" onclick="win(this.href, 560, 500, 0, 1); return false;">Trapani - Cittadella</a></td><td class="result"><a href="../matchdetails.php?matchid=p0AC8cnk" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.08"></td><td class="odds" data-odd="3.05"></td><td class="odds" data-odd="3.69"></td><td class="last-cell nobr date">13.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=Oj9G7H1e" onclick="win(this.href, 560, 500, 0, 1); return false;">Varese - Lanciano</a></td><td class="result"><a href="../matchdetails.php?matchid=Oj9G7H1e" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.42"></td><td class="odds best-betrate" data-odd="2.96"></td><td class="odds" data-odd="3.04"></td><td class="last-cell nobr date">13.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=2yL79wXr" onclick="win(this.href, 560, 500, 0, 1); return false;">Pescara - Bologna</a></td><td class="result"><a href="../matchdetails.php?matchid=2yL79wXr" onclick="win(this.href, 560, 500, 0, 1); return false;">2:3</a></td><td class="odds" data-odd="2.39"></td><td class="odds" data-odd="2.96"></td><td class="odds best-betrate" data-odd="3.08"></td><td class="last-cell nobr date">12.09.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">1. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=j3ngQyZs" onclick="win(this.href, 560, 500, 0, 1); return false;">Vicenza - Latina</a></td><td class="result"><a href="../matchdetails.php?matchid=j3ngQyZs" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="3.59"></td><td class="odds best-betrate" data-odd="3.06"></td><td class="odds" data-odd="2.11"></td><td class="last-cell nobr date">10.09.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">2. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=zBW4gRto" onclick="win(this.href, 560, 500, 0, 1); return false;">Bari - Perugia</a></td><td class="result"><a href="../matchdetails.php?matchid=zBW4gRto" onclick="win(this.href, 560, 500, 0, 1); return false;">0:2</a></td><td class="odds" data-odd="2.11"></td><td class="odds" data-odd="3.06"></td><td class="odds best-betrate" data-odd="3.59"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=CSFmIAJo" onclick="win(this.href, 560, 500, 0, 1); return false;">Bologna - Entella</a></td><td class="result"><a href="../matchdetails.php?matchid=CSFmIAJo" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="1.68"></td><td class="odds best-betrate" data-odd="3.37"></td><td class="odds" data-odd="5.28"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=ptEeGllb" onclick="win(this.href, 560, 500, 0, 1); return false;">Carpi - Varese</a></td><td class="result"><a href="../matchdetails.php?matchid=ptEeGllb" onclick="win(this.href, 560, 500, 0, 1); return false;">4:2</a></td><td class="odds best-betrate" data-odd="2.10"></td><td class="odds" data-odd="3.01"></td><td class="odds" data-odd="3.69"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=dGHaF834" onclick="win(this.href, 560, 500, 0, 1); return false;">Cittadella - Avellino</a></td><td class="result"><a href="../matchdetails.php?matchid=dGHaF834" onclick="win(this.href, 560, 500, 0, 1); return false;">3:1</a></td><td class="odds best-betrate" data-odd="2.79"></td><td class="odds" data-odd="2.92"></td><td class="odds" data-odd="2.65"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=Wxnq7pBp" onclick="win(this.href, 560, 500, 0, 1); return false;">Lanciano - Modena</a></td><td class="result"><a href="../matchdetails.php?matchid=Wxnq7pBp" onclick="win(this.href, 560, 500, 0, 1); return false;">2:0</a></td><td class="odds best-betrate" data-odd="2.71"></td><td class="odds" data-odd="2.91"></td><td class="odds" data-odd="2.74"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=IV58DnYG" onclick="win(this.href, 560, 500, 0, 1); return false;">Pro Vercelli - Catania</a></td><td class="result"><a href="../matchdetails.php?matchid=IV58DnYG" onclick="win(this.href, 560, 500, 0, 1); return false;">3:2</a></td><td class="odds best-betrate" data-odd="3.13"></td><td class="odds" data-odd="2.98"></td><td class="odds" data-odd="2.35"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=n5ACC6mN" onclick="win(this.href, 560, 500, 0, 1); return false;">Spezia - Frosinone</a></td><td class="result"><a href="../matchdetails.php?matchid=n5ACC6mN" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.31"></td><td class="odds" data-odd="2.94"></td><td class="odds" data-odd="3.27"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=Qe9GBQ2T" onclick="win(this.href, 560, 500, 0, 1); return false;">Ternana - Pescara</a></td><td class="result"><a href="../matchdetails.php?matchid=Qe9GBQ2T" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.46"></td><td class="odds best-betrate" data-odd="3.00"></td><td class="odds" data-odd="2.95"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=UgocPell" onclick="win(this.href, 560, 500, 0, 1); return false;">Trapani - Vicenza</a></td><td class="result"><a href="../matchdetails.php?matchid=UgocPell" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="1.71"></td><td class="odds" data-odd="3.43"></td><td class="odds" data-odd="4.95"></td><td class="last-cell nobr date">07.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=jJEiHUYi" onclick="win(this.href, 560, 500, 0, 1); return false;">Brescia - Livorno</a></td><td class="result"><a href="../matchdetails.php?matchid=jJEiHUYi" onclick="win(this.href, 560, 500, 0, 1); return false;">0:1</a></td><td class="odds" data-odd="2.35"></td><td class="odds" data-odd="3.02"></td><td class="odds best-betrate" data-odd="3.10"></td><td class="last-cell nobr date">06.09.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=vu74ESIA" onclick="win(this.href, 560, 500, 0, 1); return false;">Latina - Crotone</a></td><td class="result"><a href="../matchdetails.php?matchid=vu74ESIA" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="1.82"></td><td class="odds" data-odd="3.25"></td><td class="odds" data-odd="4.52"></td><td class="last-cell nobr date">06.09.2014</td></tr>
+<tr class="rtitle"><th class="left first-cell">1. Round</th><th>&nbsp;</th><th>1</th><th>X</th><th>2</th><th class="nobr last-cell">&nbsp;</th></tr>
+<tr class="first-row"><td class="first-cell tl"><a href="../matchdetails.php?matchid=4MhM1kZ4" onclick="win(this.href, 560, 500, 0, 1); return false;">Modena - Cittadella</a></td><td class="result"><a href="../matchdetails.php?matchid=4MhM1kZ4" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="1.76"></td><td class="odds best-betrate" data-odd="3.33"></td><td class="odds" data-odd="4.77"></td><td class="last-cell nobr date">01.09.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=b7A0pl4U" onclick="win(this.href, 560, 500, 0, 1); return false;">Avellino - Pro Vercelli</a></td><td class="result"><a href="../matchdetails.php?matchid=b7A0pl4U" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.02"></td><td class="odds" data-odd="3.08"></td><td class="odds" data-odd="3.87"></td><td class="last-cell nobr date">30.08.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=zTo65XZu" onclick="win(this.href, 560, 500, 0, 1); return false;">Catania - Lanciano</a></td><td class="result"><a href="../matchdetails.php?matchid=zTo65XZu" onclick="win(this.href, 560, 500, 0, 1); return false;">3:3</a></td><td class="odds" data-odd="1.74"></td><td class="odds best-betrate" data-odd="3.30"></td><td class="odds" data-odd="4.93"></td><td class="last-cell nobr date">30.08.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=lWkA4ikn" onclick="win(this.href, 560, 500, 0, 1); return false;">Crotone - Ternana</a></td><td class="result"><a href="../matchdetails.php?matchid=lWkA4ikn" onclick="win(this.href, 560, 500, 0, 1); return false;">0:2</a></td><td class="odds" data-odd="2.28"></td><td class="odds" data-odd="2.97"></td><td class="odds best-betrate" data-odd="3.31"></td><td class="last-cell nobr date">30.08.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=Y1pwb7YT" onclick="win(this.href, 560, 500, 0, 1); return false;">Entella - Bari</a></td><td class="result"><a href="../matchdetails.php?matchid=Y1pwb7YT" onclick="win(this.href, 560, 500, 0, 1); return false;">0:2</a></td><td class="odds" data-odd="2.75"></td><td class="odds" data-odd="2.95"></td><td class="odds best-betrate" data-odd="2.65"></td><td class="last-cell nobr date">30.08.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=WfuF3B4h" onclick="win(this.href, 560, 500, 0, 1); return false;">Frosinone - Brescia</a></td><td class="result"><a href="../matchdetails.php?matchid=WfuF3B4h" onclick="win(this.href, 560, 500, 0, 1); return false;">1:0</a></td><td class="odds best-betrate" data-odd="2.59"></td><td class="odds" data-odd="2.97"></td><td class="odds" data-odd="2.80"></td><td class="last-cell nobr date">30.08.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=AovJ2VJb" onclick="win(this.href, 560, 500, 0, 1); return false;">Livorno - Carpi</a></td><td class="result"><a href="../matchdetails.php?matchid=AovJ2VJb" onclick="win(this.href, 560, 500, 0, 1); return false;">1:1</a></td><td class="odds" data-odd="2.19"></td><td class="odds best-betrate" data-odd="2.99"></td><td class="odds" data-odd="3.47"></td><td class="last-cell nobr date">30.08.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=QysVaT3H" onclick="win(this.href, 560, 500, 0, 1); return false;">Pescara - Trapani</a></td><td class="result"><a href="../matchdetails.php?matchid=QysVaT3H" onclick="win(this.href, 560, 500, 0, 1); return false;">0:0</a></td><td class="odds" data-odd="1.95"></td><td class="odds best-betrate" data-odd="3.24"></td><td class="odds" data-odd="3.89"></td><td class="last-cell nobr date">30.08.2014</td></tr>
+<tr class=""><td class="first-cell tl"><a href="../matchdetails.php?matchid=vuoZbmJN" onclick="win(this.href, 560, 500, 0, 1); return false;">Varese - Spezia</a></td><td class="result"><a href="../matchdetails.php?matchid=vuoZbmJN" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.37"></td><td class="odds" data-odd="2.96"></td><td class="odds" data-odd="3.14"></td><td class="last-cell nobr date">30.08.2014</td></tr>
+<tr class="strong"><td class="first-cell tl"><a href="../matchdetails.php?matchid=rDiQ09lB" onclick="win(this.href, 560, 500, 0, 1); return false;">Perugia - Bologna</a></td><td class="result"><a href="../matchdetails.php?matchid=rDiQ09lB" onclick="win(this.href, 560, 500, 0, 1); return false;">2:1</a></td><td class="odds best-betrate" data-odd="2.31"></td><td class="odds" data-odd="2.96"></td><td class="odds" data-odd="3.25"></td><td class="last-cell nobr date">29.08.2014</td></tr>
+</tbody></table></div><table border="0" class="blank"><tbody><tr><td class="left"><a href="/redirect/http://www.oddsportal.com" onclick="window.open(this.href); return false"><img src="/res/img/portal_op_logo.gif" alt="OddsPortal.com" width="120" height="25" /></a></td><td class="left">Betting odds service provided in cooperation with <a href="/redirect/http://www.oddsportal.com" onclick="window.open(this.href); return false">OddsPortal.com</a></td></tr></tbody></table><div id="fadvert"><strong>Help:</strong> This page serves to display complete results for Serie B 2014/2015 which is sorted in Soccer - Italy category. Make use of complete results list in Serie B 2014/2015 and utilize connection to archive betting odds. Click on match detail and find out result as well as 1X2, under/over, asian handicap and moneyline odds offered for the game played in Serie B 2014/2015.</div>
+</div>
+</div></div>
+<script type="text/javascript">
+//<![CDATA[
+	user.oddsformat = 1;
+	user.oddstype = 1;
+	format_odds('', true);
+//]]>
+</script>
+</div>
+<div id="menu">
+<ul>
+	<li><a href="/results/soccer/" data-nrlink>Results</a></li>
+	<li><a href="/next/soccer/" data-nrlink>Next Matches</a></li>
+	<li><a href="/odds-filter/soccer/" data-nrlink>Odds Filter</a></li>
+	<li><a href="/odds-movements/soccer/" data-nrlink>Odds Movements</a></li>
+	<li><a href="/my/">My Selections</a></li>
+	<li><a href="/hot/">Hot Favorites</a></li>
+	<li><a href="/streaks/?sport=soccer">Streaks</a></li>
+	<li class="last"><a href="/livescore.php">Livescore</a></li>
+</ul><div id="tz-switch">
+<h2>Timezone</h2>
+<a href="#" onclick="tz('/soccer/italy/serie-b/results/?timezone='); return false;" title="Change current timezone" class="value">18:11 (GMT+1)</a>
+</div> 
+
+<div id="search">
+	<h2>Match Finder</h2>
+	<form action="/search.php" method="get">
+	<fieldset>
+		<div id="search-results"></div>
+		<input name="searchText" id="search-text" value="Team name" autocomplete="off" onfocus="searchLoad();" onblur="searchHide();" onkeyup="searchLoad();" />
+		<input type="submit" name="search" value="Search" id="sbutton" />
+	</fieldset>
+	</form>
+
+	
+	<script type="text/javascript">
+	//<![CDATA[
+		document.getElementById('sbutton').style.visibility="hidden";
+
+		function clear_search(element)
+		{
+			element.value = "";
+			element.style.color = "black";
+		}
+	//]]>
+	</script>
+</div>
+<div id="lum-advert"><div class="adsenvelope adstextpad banx-left_under_menu_soccer" id="lsadvert-zid-711" style="width:120px !important;"><div style="height:300px !important"><div class="adscontent" id="lsadvert-left_under_menu_soccer"><iframe id="lsadvert-zid-711-iframe" name="banx-left_under_menu_soccer" frameborder="0" scrolling="no" style="allowTransparency: true; visibility: hidden; width:120px; height:300px"></iframe></div><div class="adsgraphhori"><div class="adsghori ath-en"></div></div></div></div></div></div>
+<div id="footer"></div>
+<div id="social">
+<div class="gplus"><div class="g-plusone" data-href="http://www.betexplorer.com/" data-size="tall" data-expandTo="left"></div></div>
+<div class="fb"><fb:like href="http://www.facebook.com/BetExplorer" send="false" layout="box_count" width="55" show_faces="false" font="tahoma"></fb:like></div>
+</div>
+<script type="text/javascript">
+	window.___gcfg = {lang: 'en-US'};
+
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+			<div id="myselections"><div class="scrolling-banner-top-stop"></div>
+<div class="scrolling-banner-wrap">
+<div id="myseladv0">
+</div>
+<div id="myseladv">
+</div>
+<div id="myseladv2">
+</div>
+<div id="myseladv3">
+<div class="adsenvelope adstextpad banx-my_selection_box_third" id="lsadvert-zid-563" style="width:160px !important;"><div style="height:600px !important"><div class="adscontent" id="lsadvert-my_selection_box_third"><iframe id="lsadvert-zid-563-iframe" name="banx-my_selection_box_third" frameborder="0" scrolling="no" style="allowTransparency: true; visibility: hidden; width:160px; height:600px"></iframe></div><div class="adsgraphhori"><div class="adsghori ath-en"></div></div></div></div></div>
+</div></div><script type="text/javascript">
+//<![CDATA[
+$(function() {
+	setTimeout(function() {
+		var sbm = new cjs.BannerScrollManager($);
+		if($(".scrolling-banner-wrap:eq(0)").size())
+		{
+			sbm.addBanner({
+				bannerObject: new cjs.BannerScroll($(".scrolling-banner-wrap:eq(0)"), $),
+				startElementsOnDownHitTopOfView: [$(".scrolling-banner-top-stop:eq(0)")],
+				stopElementsOnUpHitTopOfView: [$(".scrolling-banner-top-stop:eq(0)")],
+				stopElementsOnHitByBottom: [$(".scrolling-banner-bottom-stop:eq(0)")],
+				minWindowHeight: 750,
+				fullBannerHeightVisibleOrDisable: true,
+				leftPositionHandleElement: $(".scrolling-banner-top-stop:eq(0)")
+			});
+			sbm.manage();
+		}
+	}, 500);
+});
+//]]>
+</script>
+		</div>
+</div>
+<div id="ufooter">
+    <div id="ufooter-padding">
+<p>Copyright 2003-14 by BetExplorer.com <a href="/terms-of-service.php">Terms &amp; Privacy Policy</a>, <a href="/site-map.php">Site Map</a>, <a href="/site-info.php">Site Info</a>, <a href="/contact.php">Contact us</a></p><p><a href="http://certify.gpwa.org/verify/betexplorer.com/" target="_blank"><img class="footer-button-1" src="/res/img/gpwa-icon.gif" alt="GPWA" /></a><a href="http://www.facebook.com/BetExplorer" target="_blank"><img class="footer-button-2" src="/res/img/fb-icon.gif" alt="Facebook" /></a><a href="http://plus.google.com/114841627510388138196/" target="_blank"><img class="footer-button-3" src="/res/img/gplus-icon.gif" alt="Google+" /></a></p><script type="text/javascript">
+//<![CDATA[
+    var AFS_Account="00334440";
+    var AFS_Tracker="000";
+    var AFS_Server="www3";
+
+    EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+    EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+
+    navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+    EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+    EXd.write("<img src=\"http://nht-2.extreme-dm.com",
+    "/n2.g?login=be&amp;pid=overall&amp;",
+    "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+    "l="+escape(EXd.referrer)+"\" height=1 width=1>");
+//]]>
+</script>
+<noscript><span><img height="1" width="1" alt="" src="http://nht-2.extreme-dm.com/n2.g?login=be&amp;pid=overall&amp;j=n&amp;jv=n" /></span></noscript>
+</div></div>
+
+</div>
+</div>
+<div class="scrolling-banner-bottom-stop"></div>
+				<script type="text/javascript">
+				// <![CDATA[
+				var banners; 		var BannerHandler = (function()
+		{
+			function BannerHandler(zoneIds, elementsBackgrounds, adsServers, noticeTextSelectors, jQueryObj, noticeText, storage, zoneIdsCond)
+			{
+				this.verbose = false;
+
+				// zoneIds must be array
+				if(zoneIds && zoneIds.constructor == Array)
+					this.zoneIds = zoneIds;
+				else
+				{
+					if(this.verbose)
+						cerr('zoneIds must be array');
+					this.zoneIds = [];
+				}
+
+				if (typeof noticeTextSelectors != 'object')
+				{
+					noticeTextSelectors = {}
+				}
+				this.noticeTextSelectors = noticeTextSelectors;
+
+				if (typeof zoneIdsCond == 'undefined')
+				{
+					zoneIdsCond = null;
+				}
+				this.zoneIdsCond = zoneIdsCond;
+
+				this.elementsBackgrounds = elementsBackgrounds;
+
+				if(!adsServers && this.verbose)
+					cerr('adsServers must be set');
+				this.adsServers = adsServers;
+
+				if(jQueryObj)
+					this.jq = jQueryObj;
+				else
+					this.jq = jQuery;
+
+				this.validateBackgroundZones();
+
+				// text for background notice element
+				this.noticeText = noticeText || '';
+
+				if (storage)
+				{
+					this.storage = storage;
+				}
+				else
+				{
+					this.storage = null;
+				}
+
+				this.requests = 0;
+				this.maxRequests = Math.min(3, this.adsServers.length);
+				this.requestTTL = this.maxRequests == 1 ? 15 : 2;
+				//this.maxRequests = 3;
+				this.urlTemplate = 'http://{URL}/delivery?zones=';
+
+				this.idPrefix = 'lsadvert-zid-';
+				this.requested = false;
+				this.responseHandled = false;
+				this.displayed = false;
+				this.displayCalled = false;
+				this.adBlockedCallback = null;
+				this.zones = {};
+				this.capping = {};
+				if (this.storage)
+				{
+					var date = new Date();
+					this.cappingKey = 'advertCapping_' + date.getFullYear() + '_' + date.getMonth() + '_' + date.getDate();
+					this.capping = storage.get(this.cappingKey);
+					this.capping = this.capping ? JSON.parse(this.capping) : {};
+				}
+				this.setBackgroundCallbacks = [];
+				this.afterAdBackgroundElementCreatedCallbacks = [];
+				this.bannersLoadedCallbacks = [];
+				this.adBlocked = null;
+				this._setIframeContentCounter = 0;
+				this._setIframeContentTimeout = 20;
+				this._backgroundSetTimeout = 100;
+				this.request();
+			};
+
+			BannerHandler.prototype.clientTypes =
+			{
+				mobile: "mobile",
+				tablet: "tablet",
+				PC: "PC"
+			};
+
+			BannerHandler.prototype.validateBackgroundZones = function()
+			{
+				// remove body zone for mobile device
+				if(this.getClientType() != this.clientTypes.mobile)
+				{
+					return;
+				}
+
+				var newZoneIds = [];
+
+				for(var zoneIndex in this.zoneIds)
+				{
+					if(typeof this.elementsBackgrounds[this.zoneIds[zoneIndex]] == 'undefined')
+					{
+						// with 'delete this.zoneIds[index]' the ',' is left before removed field
+						newZoneIds.push(this.zoneIds[zoneIndex]);
+					}
+				}
+
+				this.zoneIds = newZoneIds;
+
+				this.elementsBackgrounds = {};
+			};
+
+			BannerHandler.prototype.setAdBlockedCallback = function(callback)
+			{
+				this.adBlockedCallback = callback;
+			};
+
+			BannerHandler.prototype.addSetBackgroundCallback = function(callback)
+			{
+				this.setBackgroundCallbacks.push(callback);
+			};
+
+
+			BannerHandler.prototype.addAfterAdBackgroundElementCreatedCallbacks = function(callback)
+			{
+				this.afterAdBackgroundElementCreatedCallbacks.push(callback);
+			};
+
+			BannerHandler.prototype.addBannersLoadedCallback = function(callback)
+			{
+				this.bannersLoadedCallbacks.push(callback);
+			};
+
+			BannerHandler.prototype.hasFlashSupport = function()
+			{
+				try
+				{
+					return !!((typeof swfobject != 'undefined' && swfobject.hasFlashPlayerVersion("1")) || navigator.mimeTypes["application/x-shockwave-flash"] || window.ActiveXObject && new ActiveXObject('ShockwaveFlash.ShockwaveFlash'));
+				}
+				catch(e)
+				{
+					//
+				}
+				return false;
+			};
+
+			BannerHandler.prototype.getClientType = function()
+			{
+				if (typeof this.jq.browser.mobile == 'undefined' || typeof this.jq.browser.mobile != 'undefined' && this.jq.browser.mobile)
+				{
+					return this.clientTypes.mobile;
+				}
+				else if(/android|ipad|playbook|silk/i.test(navigator.userAgent||navigator.vendor||window.opera))
+				{
+					return this.clientTypes.tablet;
+				}
+				return this.clientTypes.PC;
+			};
+
+			BannerHandler.prototype.getUrl = function()
+			{
+				var randUrlPos = Math.floor(Math.random() * this.adsServers.length);
+				var randUrl = this.urlTemplate.replace('{URL}', this.adsServers[randUrlPos]);
+				if(this.adsServers.length > 1)
+					this.adsServers.splice(randUrlPos, 1);
+				return randUrl;
+			};
+
+			BannerHandler.prototype.getUrlCappingPart = function()
+			{
+				var i, j, retCap = {}, hasCap = false;
+				for(i = 0; i < this.zoneIds.length; i++)
+				{
+					if(typeof this.capping[this.zoneIds[i]] != 'undefined')
+					{
+						hasCap = true;
+						for(j in this.capping[this.zoneIds[i]])
+							retCap[j] = this.capping[this.zoneIds[i]][j];
+					}
+				}
+
+				return hasCap ? '&cap=' + encodeURI(JSON.stringify(retCap)) : '';
+			};
+
+			BannerHandler.prototype.getUrlFlashPart = function()
+			{
+				return this.hasFlashSupport() ? '' : '&no_flash=1';
+			};
+
+			BannerHandler.prototype.getUrlClientTypePart = function()
+			{
+				return '&clientType='+this.getClientType();
+			};
+
+			BannerHandler.prototype.request = function()
+			{
+				if(!this.requested)
+				{
+					this.requests ++;
+
+					if(this.verbose)
+						clog('Request');
+					var callbackThis = this;
+					this.jq.ajax({
+						url: this.getUrl() + this.zoneIds.join(',') + this.getUrlClientTypePart() + this.getUrlCappingPart() + this.getUrlFlashPart(),
+							timeout: this.requestTTL * 1000,
+							dataType: 'jsonp',
+							jsonpCallback: 'delivery',
+							success: function(data, textStatus, jqXHR)
+					{
+						if(callbackThis.verbose)
+							clog('Succes response');
+						if(jqXHR.status == 200)
+						{
+							callbackThis.setData(data);
+						}
+						else
+							callbackThis.responseError(jqXHR);
+					},
+						error: function(jqXHR, textStatus, errorThrown)
+						{
+							callbackThis.responseError(jqXHR, errorThrown);
+						}
+					});
+				}
+				this.requested = true;
+			};
+
+			BannerHandler.prototype.setData = function(data)
+			{
+				for (zoneId in data)
+				{
+					this.zones[zoneId] = data[zoneId];
+					this._resizeZonetoContent(zoneId);
+					this._callBannersLoadedCallback(zoneId);
+				}
+				this.responseHandled = true;
+				if(this.displayCalled)
+					this.display();
+				else
+				{
+					for (var index = 0; index < this.zoneIds.length; index ++)
+					{
+						zoneId = this.zoneIds[index];
+						if (!this.zones[zoneId] || !this.zones[zoneId].content)
+							this.jq("#" + this.idPrefix + zoneId).hide();
+					}
+				}
+
+				var storeCapping = false;
+				var zonesCond = [];
+				for(var zone in this.zones)
+				{
+					if (this.zoneIdsCond != null && typeof this.zoneIdsCond[zone] != 'undefined')
+					{
+						if (this.zoneIdsCond[zone].second_request &&
+							(typeof data[zone] == 'undefined' || typeof data[zone].h == 'undefined' || data[zone].h <= this.zoneIdsCond[zone].height))
+						{
+							for(var i in this.zoneIdsCond[zone].zones)
+							{
+								zonesCond.push(this.zoneIdsCond[zone].zones[i]);
+							}
+						}
+						else
+						{
+							for(var i in this.zoneIdsCond[zone].zones)
+							{
+								this.jq('#lsadvert-zid-' + this.zoneIdsCond[zone].zones[i]).hide();
+							}
+						}
+					}
+
+					if(typeof this.zones[zone].cap != 'undefined')
+					{
+						if(typeof this.capping[zone] == 'undefined')
+							this.capping[zone] = {};
+						if(typeof this.capping[zone][this.zones[zone].cap] == 'undefined')
+							this.capping[zone][this.zones[zone].cap] = 1;
+						else
+							this.capping[zone][this.zones[zone].cap]++;
+						storeCapping = true;
+					}
+				}
+				if(storeCapping && this.storage)
+					this.storage.store(this.cappingKey, JSON.stringify(this.capping), 24 * 60 * 60, 'self', '/');
+
+				// druhy request
+				if (zonesCond.length)
+				{
+					var zoneIdsBack = this.zoneIds;
+					for (var i = 0; i < zonesCond.length; i++)
+					{
+						zoneIdsBack.push(zonesCond[i]);
+					}
+					this.zoneIds = zonesCond;
+					this.zoneIdsCond = null;
+					this.requested = false;
+					this.displayed = false;
+					this.request();
+					this.zoneIds = zoneIdsBack;
+				}
+			};
+
+			BannerHandler.prototype.responseError = function(jqXHR, errorThrown)
+			{
+				if(this.verbose)
+					cerr('Response error');
+
+				// Do something on response error
+				if(this.requests >= this.maxRequests)
+				{
+					this.setData({});
+					if(!this.displayCalled)
+					{
+						this.requested = false;
+						this.responseHandled = false;
+					}
+				}
+				else
+				{
+					this.requested = false;
+					this.request();
+				}
+			};
+
+			BannerHandler.prototype.getInt = function(int)
+			{
+				try
+				{
+					int = parseInt(int);
+				} catch (e) {}
+				if (typeof int == "number")
+				{
+					return int;
+				}
+				return 0;
+			};
+
+			BannerHandler.prototype._resizeZonetoContent = function(zoneId)
+			{
+				if(typeof zoneId == 'undefined')
+					zoneId == 0;
+
+				if(this.zones && this.zones[zoneId] && typeof this.zones[zoneId].w == "number" && typeof this.zones[zoneId].h == "number")
+				{
+					var width = Math.min(this.getInt(this.jq('#lsadvert-zid-' + zoneId).css('width')), this.zones[zoneId].w);
+					var height = Math.min(this.getInt(this.jq('#lsadvert-zid-' + zoneId + ' > div').css('height')), this.zones[zoneId].h);
+					this.zones[zoneId].width = width;
+					this.zones[zoneId].height = height;
+					this.jq('#lsadvert-zid-' + zoneId).css('width', width);
+					this.jq('#lsadvert-zid-' + zoneId + ' > div').css('height', height);
+					this.jq('#lsadvert-zid-' + zoneId + '-iframe').css({'width': width, 'height': height});
+				}
+			};
+
+			BannerHandler.prototype._callBannersLoadedCallback = function(zoneId)
+			{
+				for (var callbackIndex = 0; callbackIndex < this.bannersLoadedCallbacks.length; callbackIndex++)
+				{
+					if (Object.prototype.toString.call(this.bannersLoadedCallbacks[callbackIndex]) == '[object Function]')
+					{
+						this.bannersLoadedCallbacks[callbackIndex](zoneId);
+					}
+				}
+			};
+
+			BannerHandler.prototype.getContent = function(zoneId)
+			{
+				if(typeof zoneId == 'undefined')
+					zoneId == 0;
+
+				if(this.zones && this.zones[zoneId] && this.zones[zoneId].content)
+				{
+					var zoneContent = this.zones[zoneId].content.replace(/\[timestamp\]/g, Math.random());
+
+					if((this.jq.browser.msie || this.jq.browser.opera) && zoneContent.indexOf('<script') != -1)
+					{
+						var closeDelay = 700;
+						if(this.jq.browser.version <= 8)
+							closeDelay *= 8;
+						if(this.jq.browser.opera)
+							closeDelay = 10;
+						zoneContent += "<script type=\"text/javascript\">setTimeout('document.close();', " + closeDelay + ");</s" + "cript>";
+						if (this.jq.browser.opera)
+							return "<script type=\"text/javascript\">setTimeout('document.write(unescape(\"" + escape("<body style=\"margin:0;padding:0;\">" + zoneContent + "</b" + "ody>") + "\"));',10);</s" + "cript>";
+					}
+					return "<body style=\"margin:0;padding:0;\">" + zoneContent + "</b" + "ody>";
+				}
+
+				return '';
+			};
+
+			BannerHandler.prototype._setIframeContent = function(zoneIfrm, zoneId, content)
+			{
+				var that = this;
+				var iterator = this._setIframeContentCounter;
+				setTimeout(function()
+				{
+					var zoneIfrmDoc = that._getIframeContentDocument(zoneIfrm);
+
+					that.jq(zoneIfrm).css("visibility", "");
+
+					if (that.noticeTextSelectors[zoneId])
+					{
+						that._setNoticeTextToElement(that.noticeTextSelectors[zoneId]);
+						for (var callbackIndex = 0; callbackIndex < that.setBackgroundCallbacks.length; callbackIndex++)
+						{
+							if (Object.prototype.toString.call(that.setBackgroundCallbacks[callbackIndex]) == '[object Function]')
+							{
+								that.setBackgroundCallbacks[callbackIndex]();
+							}
+						}
+					}
+
+					if (!zoneIfrmDoc || typeof zoneIfrmDoc.document != 'object')
+					{
+						zoneIfrm.src = 'javascript:(function(){document.open();document.domain="' + document.domain + '";var c = window.parent.banners.getContent(' + zoneId + ');document.write(c);})()';
+						return;
+					}
+
+					zoneIfrmDoc.document.open();
+					zoneIfrmDoc.document.write(content);
+
+					if (!(banners.jq.browser.msie) || content.indexOf('<script') == -1)
+					{
+						zoneIfrmDoc.document.close();
+					}
+					if (that._setIframeContentCounter - 1 == iterator)
+					{
+						that.testAdBlock();
+					}
+
+				}, this._setIframeContentTimeout * this._setIframeContentCounter++);
+
+			};
+
+			BannerHandler.prototype._getIframeContentDocument = function(iframe)
+			{
+				if (iframe)
+				{
+					if (iframe.contentWindow)
+					{
+						return iframe.contentWindow;
+					}
+					else if (iframe.contentDocument)
+					{
+						if (iframe.contentDocument.document)
+						{
+							return iframe.contentDocument.document;
+						}
+						return iframe.contentDocument;
+					}
+				}
+				return null;
+			};
+
+			BannerHandler.prototype._setNoticeTextToElement = function(element_selector)
+			{
+				this.jq(element_selector).append('<span class="advert-bgr-notice">' + this.noticeText + '</span>');
+			};
+
+			BannerHandler.prototype.display = function()
+			{
+				this.displayCalled = true;
+				if (this.verbose)
+					clog('DisplayCalled');
+				if (this.responseHandled && !this.displayed)
+				{
+					this.displayed = true;
+					var zoneId = 0;
+					var backgroundSet = function(){};
+					var keys = [];
+					for (var i in this.zones)
+					{
+						if (this.zones.hasOwnProperty(i))
+						{
+							keys.push(i);
+						}
+					}
+					if (!keys.length)
+					{
+						this.adBlocked = true;
+						if (this.adBlockedCallback !== null)
+						{
+							this.adBlockedCallback(this.adBlocked);
+						}
+					}
+					var isMobileOrTablet = this.getClientType() == this.clientTypes.mobile || this.getClientType() == this.clientTypes.tablet;
+					var backgroundId = "";
+					if (typeof cjs != 'undefined' && typeof cjs.dic != 'undefined' && cjs.dic.get('util_config').get('app', 'banner', 'zone_list', 'background', 'id') != null)
+					{
+						backgroundId = cjs.dic.get('util_config').get('app', 'banner', 'zone_list', 'background', 'id');
+					}
+
+					for (var index = 0; index < this.zoneIds.length; index ++)
+					{
+						zoneId = this.zoneIds[index];
+						if (isMobileOrTablet && backgroundId == zoneId)
+						{
+							this.jq("#" + this.idPrefix + zoneId).remove();
+							continue;
+						}
+						if (this.zones[zoneId] && this.zones[zoneId].content)
+						{
+							var clickUrl = null;
+							if (this.zones[zoneId].id)
+							{
+								clickUrl = 'https://ads.livesportmedia.eu/www/delivery/ck.php?oaparams=2__bannerid=' + this.zones[zoneId].id + '__zoneid=' + zoneId;
+							}
+
+														if (this.elementsBackgrounds[zoneId])
+							{
+								backgroundSet = function(banners, zoneId, click)
+								{
+									return function()
+									{
+										for (var callbackIndex = 0; callbackIndex < banners.setBackgroundCallbacks.length; callbackIndex++)
+										{
+											if (Object.prototype.toString.call(banners.setBackgroundCallbacks[callbackIndex]) == '[object Function]')
+											{
+												banners.setBackgroundCallbacks[callbackIndex]();
+											}
+										}
+
+										var bgrItem = banners.elementsBackgrounds[zoneId];
+										var backgroundElement = bgrItem.element; // selector for ad element
+										var background = banners.jq('<div>' + banners.zones[zoneId].content).find('img').first().attr('src');
+
+										banners.jq(backgroundElement)
+											.css('background-image', 'url(' + background + ')')
+											.css('background-position', '49.9% 0')
+											.css('background-repeat', 'repeat-x')
+											.css('cursor', 'pointer');
+
+										if (bgrItem.fixed)
+										{
+											banners.jq(backgroundElement).css('background-attachment', 'fixed');
+										}
+
+										for (var callbackIndex = 0; callbackIndex < banners.afterAdBackgroundElementCreatedCallbacks.length; callbackIndex++)
+										{
+											if (Object.prototype.toString.call(banners.afterAdBackgroundElementCreatedCallbacks[callbackIndex]) == '[object Function]')
+											{
+												banners.afterAdBackgroundElementCreatedCallbacks[callbackIndex](backgroundElement,banners);
+											}
+										}
+
+										if (bgrItem.notice)
+										{
+											banners._setNoticeTextToElement(bgrItem.notice);
+										}
+										if (banners.jq.browser.msie)
+										{
+											banners.jq(backgroundElement).css('cursor', 'hand');
+										}
+										banners.jq('head').append('<style type="text/css">' + backgroundElement + ' > * {cursor: default;}</style>');
+
+										if (click)
+										{
+											var clickableElement = banners.jq(backgroundElement).get(0);
+											if (clickableElement)
+											{
+												banners.jq(clickableElement)
+														.click(function(_clickUrl, _clickableElement) { return function(e)
+														{
+															if (typeof e != 'undefined' && e.target == _clickableElement)
+															{
+																window.open(_clickUrl, 'banner');
+															}
+														}}(click, clickableElement));
+											}
+										}
+									};
+								}(this, zoneId, clickUrl);
+								continue;
+							}
+
+							var zoneIfrm = this.jq("#" + this.idPrefix + zoneId + "-iframe")[0];
+							if (this.zones[zoneId].id)
+							{
+								// Ugly solution to make it work in IE 7
+								this.jq("#" + this.idPrefix + zoneId + " div.adscontent").parent().prepend('<div class="adsclick" style="width: 100% !important; height: 100% !important" onclick="window.open(\'' + clickUrl + '\', \'banner\')"></div>');
+							}
+
+							var content = this.getContent(zoneId);
+							this._setIframeContent(zoneIfrm, zoneId, content);
+						}
+						else
+						{
+							this.jq("#" + this.idPrefix + zoneId).remove();
+						}
+					}
+					setTimeout(backgroundSet, this._backgroundSetTimeout + this._setIframeContentTimeout * (this._setIframeContentCounter - 1));
+
+					if (this.verbose)
+						clog('Display');
+				}
+				else if (!this.requested)
+				{
+					this.request();
+				}
+			};
+
+			BannerHandler.prototype.testAdBlockElement = function(element)
+			{
+				return element.is(':hidden') || element.css('visibility') == 'hidden' || element.width() == 0  || element.height() == 0
+			};
+
+			BannerHandler.prototype.testAdBlock = function()
+			{
+				if (this.requested)
+				{
+					var that = this;
+					setTimeout(function() {
+
+						that.adBlocked = !that.responseHandled;
+
+						if (!that.adBlocked)
+						{
+							for (var i in that.zoneIds)
+							{
+								var zoneIframe = that.jq("#" + that.idPrefix + that.zoneIds[i] + '-iframe');
+
+								if (typeof that.zones[that.zoneIds[i]] != 'undefined')
+								{
+									if (zoneIframe.length == 0 || that.testAdBlockElement(zoneIframe))
+									{
+										that.adBlocked = true;
+										break;
+									}
+
+									var zoneIframeObj = zoneIframe.get(0);
+									var zoneIframeDoc = (zoneIframeObj.contentWindow) ? zoneIframeObj.contentWindow : (zoneIframeObj.contentDocument.document) ? zoneIframeObj.contentDocument.document : zoneIframeObj.contentDocument;
+									if (typeof zoneIframeDoc.document != 'object')
+									{
+										that.adBlocked = true;
+										break;
+									}
+									else
+									{
+										var body = that.jq(zoneIframeDoc.document).find('body');
+
+										if (body.html().trim() == '' || that.testAdBlockElement(body))
+										{
+											that.adBlocked = true;
+											break;
+										}
+									}
+								}
+							}
+						}
+						else
+						{
+							that.adBlocked = true;
+						}
+						if (that.adBlockedCallback !== null)
+						{
+							that.adBlockedCallback(that.adBlocked);
+						}
+					}, 2000);
+				}
+			};
+
+			return BannerHandler;
+		})();
+		
+				banners = new BannerHandler([563,711], [], ["a.livesportmedia.eu"], [], jQuery, "", null, null);
+
+				
+				document.lsadvert_display = function() {
+					banners.display();
+				}
+				
+	document.lsadvert_display();
+				// ]]>
+				</script>
+				<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+// <![CDATA[
+	_uacct = "UA-191939-1";
+	urchinTracker();
+// ]]>
+</script>
+<span id="mlc-4ck3s9wd8c"></span><span id="mlc-aks81bkdz"></span></body>
+</html>
