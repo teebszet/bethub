@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+</head>
+
+<body>
+	<form action="/run-test" method="post" enctype="multipart/form-data" novalidate>
+		<label>Test Start<input type="number" value="0.05" id="testStart" name="testStart" /></label>
+		<label>Test End<input type="number" value="0.5" id="testEnd" name="testEnd" /></label>
+		<label>Test Steps<input type="number" value="1000" id="testSteps" name="testSteps" /></label>
+		<label>[OR] Step Size<input type="number" value="0.000045" id="testStepSize" name="testStepSize" /></label>
+		<input type="submit" value="Run Test" />
+	</form>
+
+	<script>
+
+/*
+$(function() {
+	$('#testStart').on('change', function(event) {
+		var stespSize =
+		$('#testStepSize').val()
+	});
+});
+*/
+
+	</script>
+</body>
+
+</html>
