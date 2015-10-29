@@ -301,6 +301,12 @@ function splitTable(season, table, drawThreshold) {
 	}
 //	console.log( '\n', Object.keys(stats).length, '\n\n' );
 
+	//	!HACK
+    //    shouldn't be present here!
+    //    only want season data
+    if ( typeof stats['total stats'] !== 'undefined' ) {
+         delete stats['total stats'];
+    }
 
 	var statsKeys		= Object.keys(stats),
 		statsKeysLength	= statsKeys.length;
